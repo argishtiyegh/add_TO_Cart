@@ -1,0 +1,64 @@
+.single-product {
+  float: left;
+  width: 22%;
+  margin: 2% 1% 2% 1%;
+  padding: 0 4% 0% 4%;
+  border: groove;
+}
+
+.single-product h1 {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 0 15px 0px;
+  color: coral;
+}
+
+.product-description {
+  font-family: cursive;
+  text-align: justify;
+}
+
+.price {
+  display: block;
+  color: red;
+  margin: 5% 0 5% 0;
+  text-align: center;
+}
+
+.btn-large {
+  padding: 6px 14px 6px;
+  margin-bottom: 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #0077c8;
+  display: block;
+  margin: 0 auto;
+}
+
+.delete-product {
+  text-align: center;
+  color: mediumvioletred;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.cart-wrapper {
+  clear: both;
+}
+
+.product-box {
+  border: groove;
+  margin: 2%;
+}
+
+.cart-wrapper span {
+  display: block;
+  font-family: cursive;
+  font-size: 17px;
+}
